@@ -11,6 +11,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /engagement-uptimes
   name: Engagement Status
+  # This repository is private: without `publish: true`, Upptime deploys a placeholder "404" page instead of the status site
+  publish: true
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
