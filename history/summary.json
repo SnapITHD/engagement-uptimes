@@ -16,5 +16,41 @@
     "timeMonth": 581,
     "timeYear": 581,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "NEGF Engagement",
+    "url": "https://negf.em.teem.fish",
+    "icon": "https://icons.duckduckgo.com/ip3/negf.em.teem.fish.ico",
+    "slug": "negf-engagement",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Quinault Engagement",
+    "url": "https://quinault.em.teem.fish",
+    "icon": "https://icons.duckduckgo.com/ip3/quinault.em.teem.fish.ico",
+    "slug": "quinault-engagement",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   }
 ]
