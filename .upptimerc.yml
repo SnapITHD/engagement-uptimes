@@ -5,6 +5,10 @@ repo: engagement-uptimes # The name of this repository
 sites:
   - name: AreaACrab Engagement
     url: https://areaacrab.em.teem.fish
+  - name: NEGF Engagement
+    url: https://negf.em.teem.fish
+  - name: Quinault Engagement
+    url: https://quinault.em.teem.fish
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
